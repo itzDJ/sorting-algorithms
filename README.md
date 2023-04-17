@@ -1,1 +1,1 @@
-# Project creating at BU pre-college program
+# Project created at BU pre-college program
